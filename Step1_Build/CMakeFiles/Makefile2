@@ -47,7 +47,7 @@ EQUALS = =
 CMAKE_SOURCE_DIR = /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial
+CMAKE_BINARY_DIR = /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step1_Build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/Tutorial.dir/clean
 CMakeFiles/Tutorial.dir/all:
 	$(MAKE) -f CMakeFiles/Tutorial.dir/build.make CMakeFiles/Tutorial.dir/depend
 	$(MAKE) -f CMakeFiles/Tutorial.dir/build.make CMakeFiles/Tutorial.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/CMakeFiles --progress-num=1,2 "Built target Tutorial"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step1_Build/CMakeFiles --progress-num=1,2 "Built target Tutorial"
 .PHONY : CMakeFiles/Tutorial.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Tutorial.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step1_Build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Tutorial.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step1_Build/CMakeFiles 0
 .PHONY : CMakeFiles/Tutorial.dir/rule
 
 # Convenience name for target.

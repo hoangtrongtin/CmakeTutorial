@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/TutorialConfig.h
+
 /home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/tutorial.cpp
 cmath
--
-cstdlib
 -
 iostream
 -
 string
 -
+TutorialConfig.h
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/TutorialConfig.h
 

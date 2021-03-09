@@ -1,3 +1,0 @@
-/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/CMakeFiles/rebuild_cache.dir
-/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/CMakeFiles/edit_cache.dir
-/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/CMakeFiles/Tutorial.dir
