@@ -1,0 +1,6 @@
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step2_Build/CMakeFiles/rebuild_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step2_Build/CMakeFiles/edit_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step2_Build/CMakeFiles/Tutorial.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step2_Build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step2_Build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step2_Build/MathFunctions/CMakeFiles/MathFunctions.dir
