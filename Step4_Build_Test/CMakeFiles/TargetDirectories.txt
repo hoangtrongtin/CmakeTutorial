@@ -1,0 +1,16 @@
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/install/strip.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/install/local.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/install.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/list_install_components.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/rebuild_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/edit_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/test.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/CMakeFiles/Tutorial.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/install/strip.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/install.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/list_install_components.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/rebuild_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/edit_cache.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/test.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/install/local.dir
+/home/notyet/LG/CPP/CmakeTutorial/CmakeTutorial/Step4_Build_Test/MathFunctions/CMakeFiles/MathFunctions.dir
