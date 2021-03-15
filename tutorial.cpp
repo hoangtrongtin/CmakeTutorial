@@ -3,7 +3,7 @@
 #include <iostream>
 #include <string>
 
-#include "Step2_Build/TutorialConfig.h"
+#include "TutorialConfig.h"
 #ifdef USE_MYMATH
 #include "MathFunctions.h"
 #endif
